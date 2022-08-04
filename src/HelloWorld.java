@@ -9,5 +9,6 @@ public class HelloWorld {
     public static void main(String[] args) {
         Thread myThread = new MyThread();
         myThread.start();
+        // comment
     }
 }
